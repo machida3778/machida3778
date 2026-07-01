@@ -7,15 +7,15 @@
 - 筑波大学 情報学群 情報メディア創成学類 (2024/4~2026/3)
 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム (2026/4~現在)
 
-# Research Interests
-- Computer Graphics
-- Computer Vision
-- Deep Learning
-- Diffusion Models
-- Image Processing
-- Image Editing
-- Age Editing
-- 3D Reconstruction
+# Achivements
+- Unityユースクリエイターカップ2021
+    - [シルバーアワード]((https://prtimes.jp/main/html/rd/p/000000204.000016287.html)) (144作品中上位12作品)
+- U-22プログラミングコンテスト2022
+    - [経済産業大臣賞](https://u22procon.com/2022/report/) (340作品中上位4作品)
+    - SOMPO賞
+- 第201回情報処理学会コンピュータグラフィックスとビジュアル情報学研究会 (CGVI)
+    - [学生発表賞](https://cgvi.jp/info/student-award/)
+- [筑波大学情報学群長表彰](https://inf.tsukuba.ac.jp/award/) (2026年卒業)
 
 # Resaeach & Projects
 ## [ゴルフワンショット3D](https://game.creators-guild.com/gck2021/1963/)
@@ -35,15 +35,15 @@
 - 国際学会に投稿中で、論文は現在非公開です。
 - Keywords: Computer Vision, Computer Graphics, Diffusion Models, Human Image Editing, 3D Human Modeling
 
-# Achivements
-- Unityユースクリエイターカップ2021
-    - [シルバーアワード]((https://prtimes.jp/main/html/rd/p/000000204.000016287.html)) (144作品中上位12作品)
-- U-22プログラミングコンテスト2022
-    - [経済産業大臣賞](https://u22procon.com/2022/report/) (340作品中上位4作品)
-    - SOMPO賞
-- 第201回情報処理学会コンピュータグラフィックスとビジュアル情報学研究会 (CGVI)
-    - [学生発表賞](https://cgvi.jp/info/student-award/)
-- [筑波大学情報学群長表彰](https://inf.tsukuba.ac.jp/award/) (2026年卒業)
+# Research Interests
+- Computer Graphics
+- Computer Vision
+- Deep Learning
+- Diffusion Models
+- Image Processing
+- Image Editing
+- Age Editing
+- 3D Reconstruction
 
 # Skills
 - Python, C, C#, TypeScript
