@@ -1,3 +1,6 @@
+# Introduction
+町田射空と申します。情報学を専攻しております。
+
 # Affiliation
 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 修士1年 (2026/4~現在)
 - [CGG Lab](https://www.cgg.cs.tsukuba.ac.jp/index.html) (2025/4~現在)
@@ -24,7 +27,7 @@
 
 ![GolfOneShot3D](images/gos.png)
 
-## tolerance
+## [tolerance](https://github.com/machida3778/tolerance-language)
 - 自作プログラミング言語
 - 言語処理系はCで開発
 - パラダイム: オブジェクト指向、スタック指向
@@ -60,6 +63,10 @@
 
 # Internship
 - ラテラル・シンキング株式会社 (2022/8)
+
+# Teaching Assistant
+- GC12701 プログラミング
+- GC54904 アドバンストCG
 
 # Links
 - Email: s2620668 [at] u.tsukuba.ac.jp
