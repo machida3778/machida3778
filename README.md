@@ -24,6 +24,12 @@
 
 ![GolfOneShot3D](images/gos.png)
 
+## tolerance
+- 自作プログラミング言語
+- 言語処理系はCで開発
+- パラダイム: オブジェクト指向、スタック指向
+- [Interplayer](https://store.steampowered.com/app/2209470/Interplayer/)のゲーム内で記述する言語として開発
+
 ## [Interplayer](https://store.steampowered.com/app/2209470/Interplayer/)
 - Python-likeな自作言語toleranceの処理系を組み込んだパズルゲーム
 - Steamにリリースし、現在公開中です。
