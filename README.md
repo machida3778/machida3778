@@ -1,7 +1,9 @@
 # Introduction
 町田射空と申します。情報学を専攻しております。
+I am a master’s student at the University of Tsukuba, working on Computer Graphics, Computer Vision, and deep learning-based image generation.
+I have experience in Unity game development, Steam/Android release, and implementing a custom programming language interpreter in C.
 
-# Affiliation
+# Affiliations
 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 修士1年 (2026/4~現在)
 - [CGG Lab](https://www.cgg.cs.tsukuba.ac.jp/index.html) (2025/4~現在)
 
@@ -10,7 +12,7 @@
 - 筑波大学 情報学群 情報メディア創成学類 (2024/4~2026/3)
 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム (2026/4~現在)
 
-# Achivements
+# Achievements
 - Unityユースクリエイターカップ2021
     - [シルバーアワード]((https://prtimes.jp/main/html/rd/p/000000204.000016287.html)) (144作品中上位12作品)
 - U-22プログラミングコンテスト2022
@@ -20,7 +22,7 @@
     - [学生発表賞](https://cgvi.jp/info/student-award/)
 - [筑波大学情報学群長表彰](https://inf.tsukuba.ac.jp/award/) (2026年卒業)
 
-# Resaeach & Projects
+# Research & Projects
 ## [ゴルフワンショット3D](https://game.creators-guild.com/gck2021/1963/)
 - Google Playにリリースしていましたが、現在は削除されています
 - Keywords: Unity, C#, Android, Game Development
