@@ -1,5 +1,6 @@
 # Introduction
 町田射空と申します。情報学を専攻しております。
+
 I am a master’s student at the University of Tsukuba, working on Computer Graphics, Computer Vision, and deep learning-based image generation.
 I have experience in Unity game development, Steam/Android release, and implementing a custom programming language interpreter in C.
 
