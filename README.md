@@ -65,7 +65,12 @@ I have experience in Unity game development, Steam/Android release, and implemen
 - Docker, Git, Linux
 
 # Internship
-- ラテラル・シンキング株式会社 (2022/8)
+- ラテラル・シンキング株式会社 
+    - webエンジニア2weeks (2022/8)
+- 日鉄ソリューションズ株式会社
+    - 研究開発職インターン3weeks (2026/8)
+- エムスリー株式会社
+    - 機械学習エンジニア2days (2026/8)
 
 # Teaching Assistant
 - GC12701 プログラミング
