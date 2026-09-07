@@ -23,7 +23,7 @@ I have experience in Unity game development, Steam/Android release, and implemen
     - [学生発表賞](https://cgvi.jp/info/student-award/)
 - [筑波大学情報学群長表彰](https://inf.tsukuba.ac.jp/award/) (2026年卒業)
 
-# Research & Projects
+# Projects
 ## [ゴルフワンショット3D](https://game.creators-guild.com/gck2021/1963/)
 - Google Playにリリースしていましたが、現在は削除されています
 - Keywords: Unity, C#, Android, Game Development
@@ -43,8 +43,9 @@ I have experience in Unity game development, Steam/Android release, and implemen
 
 ![Interplayer](images/interplayer_header.jpg)
 
+# Research
 ## 全身人物画像の年齢編集
-- 国際学会に投稿中で、論文は現在非公開です。
+- Visual Computing 2026
 - Keywords: Computer Vision, Computer Graphics, Diffusion Models, Human Image Editing, 3D Human Modeling
 
 # Research Interests
