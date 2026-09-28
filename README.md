@@ -73,6 +73,10 @@ I have experience in Unity game development, Steam/Android release, and implemen
 - エムスリー株式会社
     - 機械学習エンジニア2days (2026/8)
 
+# Study Abroad
+- [University of Applied Sciences Düsseldorf](http://hs-duesseldorf.de/en) 短期留学 (2026/9, 2週間)
+    - Summer School 2026, “Mixed Media and Human Data Interaction”
+
 # Teaching Assistant
 - GC12701 プログラミング
 - GC54904 アドバンストCG
