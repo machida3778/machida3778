@@ -1,3 +1,5 @@
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+
 # Introduction
 町田射空と申します。情報学を専攻しております。
 
