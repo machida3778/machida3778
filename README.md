@@ -22,6 +22,8 @@ I have experience in Unity game development, Steam/Android release, and implemen
 - 第201回情報処理学会コンピュータグラフィックスとビジュアル情報学研究会 (CGVI)
     - [学生発表賞](https://cgvi.jp/info/student-award/)
 - [筑波大学情報学群長表彰](https://inf.tsukuba.ac.jp/award/) (2026年卒業)
+- Visual Computing 2026
+    - [研究奨励賞](https://visualcomputing.jp/vc2026/award/)
 
 # Projects
 ## [ゴルフワンショット3D](https://game.creators-guild.com/gck2021/1963/)
